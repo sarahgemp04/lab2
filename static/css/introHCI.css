@@ -17,7 +17,7 @@ body {
 }
 
 .project {
-    margin-left: 20px;
+    margin: 15px auto 15px auto;
     background-color: #deebf7;
     padding: 20px;
     width: 525px;
